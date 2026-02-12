@@ -1,5 +1,9 @@
 {
   "name": "vue-skills",
+  "owner": {
+    "name": "htk",
+    "email": "htk5257577@163.com"
+  },
   "description": "A collection of skills for Vue.js development.",
   "plugins": [
     {
