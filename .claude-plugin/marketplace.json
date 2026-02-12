@@ -22,6 +22,14 @@
         "./skills/vue-best-practices"
       ]
     },
+     {
+      "name": "vue-debug-guides",
+      "source": "./",
+      "description": "Runtime errors, warnings, async error handling, hydration issues.",
+      "skills": [
+        "./skills/vue-debug-guides"
+      ]
+    },
     {
       "name": "vue-jsx-best-practices",
       "source": "./",
